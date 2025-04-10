@@ -22,11 +22,11 @@ A full admin panel created to perform all CRUD operations for managing hotel roo
 ## Demo
 
 - Reservation
-![userside](https://github.com/ramezcode1/hotelManagement/assets/135148978/fc2feeb3-c21c-4dc4-83b8-2dc115225386)
+![alt text](/public/readme-image1.png)
 
 
 - Dashboard
-  ![dashboard](https://github.com/ramezcode1/hotelManagement/assets/135148978/f876a480-efb4-4482-b78f-bbc9859d4e53)
+  ![alt text](/public/readme-image.png)
 
 
 ## Features
